@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "memory": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "cstdio": "cpp"
+    }
+}
