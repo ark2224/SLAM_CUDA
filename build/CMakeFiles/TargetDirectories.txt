@@ -1,3 +1,0 @@
-/mnt/c/Users/kalas/Documents/Github/SLAM_CUDA/build/CMakeFiles/slam_cuda_demo.dir
-/mnt/c/Users/kalas/Documents/Github/SLAM_CUDA/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/kalas/Documents/Github/SLAM_CUDA/build/CMakeFiles/rebuild_cache.dir
