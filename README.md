@@ -18,10 +18,14 @@ My work product pairs a clear, measurable SLAM plan with CUDA‑accelerated kern
 **Files:**  profiler.cu (1), frontend.cu (2), backend_pcg.cu (3), streaming.cu (4), state_bus.* (5), demo_main.cu (0)
 
 Rebuild and Run: 
+
+'''bash
   mkdir -p build && cd build
   cmake ..
   cmake --build . -j
   ./slam_cuda_demo
+'''
+
 
 1) **Measurement & Profiling — make performance first‑class**
 
